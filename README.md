@@ -11,7 +11,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohan-jadhav-683346260) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/yasirqureshi3158) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
